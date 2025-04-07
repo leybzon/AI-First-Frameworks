@@ -75,7 +75,7 @@ When choosing the right framework for your project, consider the following facto
 
 ### 📌 Decision Tree
 
-![Agentic Framework Selection Decision Tree](images/Agentic%20Framework%20Selection%20Decision%20Tree%20.svg)
+![Agentic Framework Selection Decision Tree](images/Agentic%20Framework%20Selection%20Decision%20Tree.svg)
 
 > This decision tree helps navigate the selection of agentic AI frameworks based on use case, cloud preference, and required capabilities.
 
