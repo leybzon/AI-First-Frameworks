@@ -71,5 +71,17 @@ When choosing the right framework for your project, consider the following facto
 - **Performance Optimization**: Look for features that allow profiling and optimizing agent performance, especially if scalability is a concern.
 - **Community and Support**: Consider the availability of community support, documentation, and ongoing maintenance, particularly for open-source frameworks.
 
+---
 
+### 📌 Decision Tree
+
+![Agentic Framework Selection Decision Tree](images/Agentic%20Framework%20Selection%20Decision%20Tree%20.svg)
+
+> This decision tree helps navigate the selection of agentic AI frameworks based on use case, cloud preference, and required capabilities.
+
+### 📊 Comparison Matrix (Excel)
+
+📥 [Download the Agentic Framework Comparison Matrix (Excel)](Agentic_Framework_Comparison.xlsx)
+
+> A weighted comparison of major agentic AI frameworks to help guide technical decisions.
 
